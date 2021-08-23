@@ -2,7 +2,25 @@
   text-align: center;
 }
 
-.App-logo {
+.home .five_container{
+  display: flex;
+  justify-content: center;
+}
+
+.small_card{
+  /* width: 20%; */
+  max-height: 10% !important;
+}
+
+.favorites_container{
+  
+}
+
+
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +53,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
